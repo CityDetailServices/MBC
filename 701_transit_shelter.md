@@ -8,3 +8,21 @@
     </a>
   </li>
 </ul>
+
+<h2>St Sulpice VD, Parc Scient.</h2>
+
+<ul>
+  <li>
+    Link to images<br>
+    <a href="https://www.mapillary.com/app/user/kimushka?lat=46.51683400000002&lng=6.564186000000063&z=17&pKey=878637798068321&focus=map" target="_blank">
+      Mapillary [46.51683400000002, 6.564186000000063]
+    </a>
+  </li>
+
+  <li>
+    Link to images<br>
+    <a href="https://www.mapillary.com/app/user/kimushka?lat=46.51683400000002&lng=6.564186000000063&z=17&pKey=776510685445419&focus=map" target="_blank">
+      Mapillary [46.51683400000002, 6.564186000000063]
+    </a>
+  </li>
+</ul>
